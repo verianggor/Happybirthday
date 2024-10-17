@@ -91,7 +91,7 @@ fun GreetingImage(message: String, from: String) {
 fun BirthdayCardPreview() {
     HappybirthdayTheme {
         GreetingImage(
-            message = "Happy Birthday Very!",
+            message = "Happy Birthday Very tri!",
             from = "From Ikbal"
         )
     }
